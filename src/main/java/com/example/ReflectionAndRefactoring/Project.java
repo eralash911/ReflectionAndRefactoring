@@ -2,7 +2,7 @@ package com.example.ReflectionAndRefactoring;
 
 import org.springframework.cglib.proxy.Proxy;
 
-import java.lang.reflect.InvocationHandler;
+import org.springframework.cglib.proxy.InvocationHandler;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
